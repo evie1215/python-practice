@@ -24,3 +24,6 @@ print(message_2)
 message+3 = '{}, {}. Hello'
 
 # Learned Git, very very hard
+
+def divide(x,y):
+    return x/y
